@@ -153,27 +153,6 @@ Future improvements planned for MediMinder include:
 * Detailed medication adherence analytics.
 * Enhanced family monitoring and management features.
 
-## Project Team
-
-The project was developed by:
-
-* **Disha Deepak Naik**
-* **Janhavi Sameer Naik**
-* **Kanishka Mahesh Naik**
-* **Rianoshka Carvalho**
-* **Velip Sanjeet Shrikant**
-* **Sanika Ramdas Naik**
-
-## Project Supervisor
-
-**Dr. Kissan Gauns Dessai**
-
-## Institution
-
-**Government College of Arts, Science and Commerce, Quepem, Goa**
-
-**Goa University**
-
 ## Course
 
 **Bachelor of Science Honours (Computer Science)**
